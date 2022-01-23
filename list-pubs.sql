@@ -1,0 +1,1 @@
+select distinct Publisher from library;

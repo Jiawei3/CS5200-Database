@@ -36,7 +36,7 @@ CREATE TABLE `library` (
 
 LOCK TABLES `library` WRITE;
 /*!40000 ALTER TABLE `library` DISABLE KEYS */;
-INSERT INTO `library` VALUES ('Andrew Jacobson','2003-04-27','Blue Gift','CRC Press'),('Bill Kauffmann','2005-03-06','Willow in the Mist','Delirium Books'),('Bill Kern','2005-03-01','Time of Silence','Del Sol Press'),('Catherine Wilde','2008-06-30','Black Tears','CRC Press'),('John Becker','2008-05-02','Splintered History','ABC Publishing'),('John Becker','2006-07-17','Lost Ashes','Delirium Books'),('John Becker','2010-01-15','Forgotten Girl','ABC Publishing'),('Michael Ernst','1954-12-04','Tower in the Flame','Beyer Books'),('Natalie Haast','1988-02-25','Frozen Legacy','Beyer Books'),('Samantha Steele','1999-10-08','Doors of Danger','Beyer BABC Publishingoks'),('Samantha Steele','1993-02-11','Diamond Petals','Beyer Books');
+INSERT INTO `library` VALUES ('Andrew Jacobson','2003-04-27','Blue Gift','CRC Press'),('Bill Kauffmann','2005-03-06','Willow in the Mist','Delirium Books'),('Bill Kern','2005-03-01','Time of Silence','Del Sol Press'),('Catherine Wilde','2008-06-30','Black Tears','CRC Press'),('John Becker','2008-05-02','Splintered History','ABC Publishing'),('John Becker','2006-07-17','Lost Ashes','Delirium Books'),('John Becker','2010-01-15','Forgotten Girl','ABC Publishing'),('Michael Ernst','1954-12-04','Tower in the Flame','Beyer Books'),('Natalie Haast','1988-02-25','Frozen Legacy','Beyer Books'),('Samantha Steele','1999-10-08','Doors of Danger','ABC Publishing'),('Samantha Steele','1993-02-11','Diamond Petals','Beyer Books');
 /*!40000 ALTER TABLE `library` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
@@ -49,4 +49,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2022-01-22 21:15:34
+-- Dump completed on 2022-01-22 21:41:14
