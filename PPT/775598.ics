@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+PRODID:-//Microsoft Corporation//Outlook 9.0 MIMEDIR//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTART:20220209T110000
+DTEND:20220209T112000
+DTSTAMP:20220202T035635Z
+UID:3758031@booknow.appointment-plus.com
+DESCRIPTION:First Name: Jiawei\nLast Name: Liu\nBest Contact Number : (206) 474-6975 \nEmail: jliu897@wisc.edu\n\nAgency: Region 1-DPM\nInterview: Interview\nDate: Wednesday, February 9, 2022\nTime: 11:00am to 11:20am \n\n\n\n\n\n
+Location:Region 1-DPM
+LAST-MODIFIED:20220202T035635Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Jiawei Liu - Interview - State of Wisconsin Enterprise HR
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
