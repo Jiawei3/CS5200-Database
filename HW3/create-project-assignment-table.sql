@@ -9,7 +9,7 @@ CREATE TABLE `project_assignments`(
     `project_id` INT NULL,
     PRIMARY KEY(`id`),
     INDEX `project_assignment_2_employee_idx`(`employee_id` ASC),
-    INDEX `project_assignment_2_task_idx`(`task_id` ASC),
+    INDEX `project_assignment_2_project_idx`(`project_id` ASC),
     CONSTRAINT `project_assignment_2_employee`
 		FOREIGN KEY(`employee_id`)
         REFERENCES `db_design`.`employees`(`id`)

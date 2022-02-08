@@ -5,5 +5,4 @@ CREATE TABLE `employees`(
     `first_name` VARCHAR(45) NOT NULL,
     `last_name` VARCHAR(45) NOT NULL,
     `dob` DATETIME NULL DEFAULT CURRENT_TIMESTAMP,
-    PRIMARY KEY(`id`)
-    );
+    PRIMARY KEY(`id`));

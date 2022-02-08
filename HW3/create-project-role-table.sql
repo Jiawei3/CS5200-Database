@@ -5,9 +5,9 @@ CREATE TABLE `project_roles`(
     PRIMARY KEY(`role`));
     
 
-INSERT INTO `project_roles` (`role`) VALUES (`ENGINEER`);
-INSERT INTO `project_roles` (`role`) VALUES (`QUALITY ASSURANCE`);
-INSERT INTO `project_roles` (`role`) VALUES (`MANAGER`);
-INSERT INTO `project_roles` (`role`) VALUES (`OWNER`);
-INSERT INTO `project_roles` (`role`) VALUES (`BUSINESS ANALYST`);
-INSERT INTO `project_roles` (`role`) VALUES (`ARCHITECT`);
+INSERT INTO `project_roles` (`role`) VALUES ('ENGINEER');
+INSERT INTO `project_roles` (`role`) VALUES ('QUALITY ASSURANCE');
+INSERT INTO `project_roles` (`role`) VALUES ('MANAGER');
+INSERT INTO `project_roles` (`role`) VALUES ('OWNER');
+INSERT INTO `project_roles` (`role`) VALUES ('BUSINESS ANALYST');
+INSERT INTO `project_roles` (`role`) VALUES ('ARCHITECT');

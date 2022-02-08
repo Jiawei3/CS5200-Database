@@ -15,9 +15,3 @@ CREATE TABLE `projects`(
         REFERENCES `db_design`.`employees`(`id`)
         ON DELETE CASCADE
         ON UPDATE CASCADE);
-    
-    
-    
-	
-
-);
